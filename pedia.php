@@ -1,6 +1,6 @@
 <?php 
 
-include_once("connection.php");
+$con=mysql_connect("localhost","kushpedia","kush12")
 
 
 ?>
